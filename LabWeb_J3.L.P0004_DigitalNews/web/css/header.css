@@ -1,0 +1,30 @@
+.preheader{
+    background-image: url(../images/preheader.jpg);
+    width: 886px;
+    height: 71px;
+}
+.header{
+    background-image: url(../images/header.jpg);
+    width: 886px;
+    height: 78px;
+}
+.header h3{
+    margin: 0px;
+    padding-left: 80px;
+    padding-top: 5px;
+    color: white;
+    font-weight: bold;
+}
+.menu{
+    background-image: url(../images/menu.jpg);
+    width: 886px;
+    height: 32px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding-left: 80px;
+    line-height: 32px;
+    font-weight: bold;
+    font-size: 12px;
+}

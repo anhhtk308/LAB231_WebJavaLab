@@ -1,0 +1,89 @@
+body{
+    background-color: #E7E7E7;
+    font-family: sans-serif;
+}
+.container{
+    background-image: url(../images/bg.jpg);
+    background-repeat: repeat-y;
+    margin: 0 auto;
+    width: 886px;
+    height: auto;
+}
+.content{
+    display: flex;
+    width: 886px;
+}
+.main{
+    width: 70%;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 20px;
+    border-right: 2px dotted #e0e0e0;
+}
+.title{
+    font-size: 18px;
+    font-weight: bold;
+    color: #42554e;
+    padding-bottom: 15px;
+}
+.title a{
+    text-decoration: none;
+    color: #42554e;
+    font-weight: bold;
+}
+.image img{
+    width: 400px;
+    padding-bottom: 20px;
+}
+.text{
+    padding-bottom: 40px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.signature{
+    float: right;
+    margin-top: 5px;
+    font-size: 10px;
+    color: #42554e;
+    margin-bottom: 15px;
+}
+.icon1{
+    height: 10px;
+    width: 10px;
+    background-image: url(../images/comment.gif);
+    display: inline-block;
+    margin-top: 3px;
+}
+.icon2{
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    background-image: url(../images/timeicon.gif);
+    margin-top: 3px;
+}
+.image_search img{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+}
+.shorDes_search{
+    font-size: 13px;
+    /*margin-bottom: 20px;*/
+}
+.paging{
+    margin-top: 10px;
+    margin-left: 330px;
+}
+.paging a{
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 2px;
+    color: black;
+}
+.active{
+    color: red !important;
+    pointer-events: none;
+}
+
+
+

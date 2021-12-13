@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/LabWeb_J3.L.P0004_DigitalNews">
+    <Environment name="serverName" type="java.lang.String" value="localhost"/>
+    <Environment name="dbName" type="java.lang.String" value="LabWeb_Digital"/>
+    <Environment name="portNumber" type="java.lang.String" value="1433"/>
+    <Environment name="username" type="java.lang.String" value="sa"/>
+    <Environment name="password" type="java.lang.String" value="30082000"/>
+</Context>

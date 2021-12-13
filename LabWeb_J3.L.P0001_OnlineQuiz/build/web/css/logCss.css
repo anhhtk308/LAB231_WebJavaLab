@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : June 7, 2021, 9:14:55 AM
+    Author     : DELL
+*/
+.login-left{
+    width: 20%;
+    float: left;
+}
+.login-right{
+    width: 80%;
+    float: right;
+}
+.login-left-logout{
+    width: 30%;
+    float: left;
+}
+.login-right-logout{
+    width: 70%;
+    float: right;
+}
+.login-text{
+   font-size: larger;
+    color: #04088a;
+    padding-bottom: 22%;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.login-text1{
+    display: block;
+        font-family: sans-serif;
+    font-size: larger;
+    color: #396b60;
+    margin-bottom: 5px;
+}
+.div-input{
+    padding-top: 11%;
+}
+.div-input input{
+    margin-bottom: 3px;
+    background-color: #fbfbd1;
+}
+.div-input-logout{
+    padding-top: 60px;
+}
+.div-input-logout input{
+     margin-bottom: 3px;
+    
+}
+#inputt{
+     background-color: #fbfbd1;
+}
+.div-input-logout select{
+    margin-bottom: 3px;
+}
+.div-input a{
+    text-decoration: none;
+    color: #396b60;
+    font-family: sans-serif;
+}
